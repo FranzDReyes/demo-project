@@ -1,0 +1,1 @@
+print("SHINZOU WO SASAGEYO")
